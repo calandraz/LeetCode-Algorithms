@@ -1,2 +1,2 @@
 # LeetCode-Algorithms
-A repository of my LeetCode Challenges
+A repository of my LeetCode and Hackerrank Challenges
